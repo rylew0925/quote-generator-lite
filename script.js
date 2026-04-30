@@ -1,8 +1,7 @@
 const quotes = [
   "Stay positive.",
   "Keep learning.",
-  "You can do this.",
-  "Believe in yourself."
+  "You can do this."
 ];
 
 document.getElementById("btn").addEventListener("click", () => {
